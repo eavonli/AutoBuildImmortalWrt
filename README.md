@@ -49,10 +49,10 @@ https://mirror.nju.edu.cn/immortalwrt/releases/23.05.4/packages/aarch64_generic/
 - https://github.com/wukongdaily/armbian-installer
 
 ## ❤️如何构建docker版ImmortalWrt（建议收藏）⬇️
-https://wkdaily.cpolar.top/15
+https://wkdaily.cpolar.cn/15
 # 🌟鸣谢
 ### https://github.com/immortalwrt
 
 ## ❤️赞助作者 ⬇️⬇️
 
-[![点击这里赞助我](https://img.shields.io/badge/点击这里赞助我-支持作者的项目-orange?logo=github)](https://wkdaily.cpolar.top/01)
+[![点击这里赞助我](https://img.shields.io/badge/点击这里赞助我-支持作者的项目-orange?logo=github)](https://wkdaily.cpolar.cn/01)
